@@ -7,10 +7,10 @@ This is an official starter Turborepo.
 Run the following command:d
 
 ```sh
-npx create-turbo@latest
+npx create-turbo@latestddd
 ```
  
- 
+
 ## What's inside?
 
 This Turborepo includes the following packages/apps:

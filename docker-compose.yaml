@@ -1,0 +1,5 @@
+services:
+  docs:
+    build: apps/docs
+  web:
+    build: apps/web
